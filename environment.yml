@@ -1,0 +1,7 @@
+name: automl
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - -r C:/Users/James/Documents/GitHub/End-to-End-AutoML-Insurance/backend/requirements-backend.txt
+    - -r C:/Users/James/Documents/GitHub/End-to-End-AutoML-Insurance/frontend/requirements-frontend.txt
